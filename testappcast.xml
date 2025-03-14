@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>LC QA - Appcast</title>
+        <title>My app - Appcast</title>
         <item>
             <title>Version 0.0.3</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Fri, 14 Mar 2025 12:00:00 +0000</pubDate>
+            <description>Critical update</description>
+            <pubDate>Sun, 24/3/2024 07:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.tieto.lifecare.mobile.prodqa" sparkle:version="0.0.3" sparkle:os="android" />
-            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
