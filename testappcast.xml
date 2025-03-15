@@ -4,13 +4,13 @@
     <channel>
         <title>My app - Appcast</title>
         <item>
-            <title>Version 0.3.0</title>
-            <description>Critical update</description>
+            <title>Version 0.4.0</title>
+            <description>Major improvements</description>
             <pubDate>Sun, 24/3/2024 07:00:00 +0000</pubDate>
             <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.tieto.lifecare.mobile.prodqa" sparkle:version="0.3.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.tieto.lifecare.mobile.prodqa" sparkle:version="0.4.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
